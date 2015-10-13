@@ -1,0 +1,30 @@
+{
+	"passTypeIdentifier" : "pass.boilermake",
+	"formatVersion" : 1,
+	"serialNumber" : "123456",
+	"organizationName": "BoilerMake",
+    "teamIdentifier": "123456",
+	"description": "Entry Ticket for BoilerMake 3",
+	"eventTicket" : {
+		"primaryFields" : [ {
+			"key": "event-name",
+			"value" : "BoilerMake 3"
+		},
+		{
+			"key": "venue-name",
+			"label" : "Venue",
+			"value" : "Lambert Field House"
+		} ]
+	},
+	"barcode" : {
+		"format" : "PKBarcodeFormatQR",
+		"message" : "EMAILADDRESS",
+		"messageEncoding" : "iso-8859-1"
+	},
+	"locations" : [
+		{"latitude" : 37.296, "longitude" : -122.038 },
+		{"latitude" : 37.302, "longitude" : -122.103},
+		{"altitude" : 67.0, "latitude" : 37.331, "longitude" : -122.029 }
+	],
+	"relevantDate" : "2010-02-05T09:00-08:00"
+}
