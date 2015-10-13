@@ -3,10 +3,12 @@
 
 Usage: ./pkpass.sh \<certificate.p12\> \<pass directory\> \<signature password\> \<pass name\>
 
+output: name.pkpass
+
+
+
 Example Usage: ./pkpass.sh boilermake.p12 boilermake password123 scottOpell
 
-
-output: name.pkpass
 
 
 You can make a pass for an individual by replacing EMAILADDRESS in /boilermake/pass.json
