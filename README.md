@@ -1,7 +1,7 @@
 # boilermakePasses
 
 
-Usage: ./pkpass.sh <certificate.p12> <pass directory> <password> <pass name>
+Usage: ./pkpass.sh \<certificate.p12\> \<pass directory\> \<signature password\> \<pass name\>
 
 output: name.pkpass
 
