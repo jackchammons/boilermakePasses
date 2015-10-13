@@ -3,6 +3,9 @@
 
 Usage: ./pkpass.sh \<certificate.p12\> \<pass directory\> \<signature password\> \<pass name\>
 
+Example Usage: ./pkpass.sh boilermake.p12 boilermake password123 scottOpell
+
+
 output: name.pkpass
 
 
